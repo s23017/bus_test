@@ -1,0 +1,8 @@
+{
+  "stops": [
+    { "stop_id": "S1", "name": "那覇バスターミナル", "latitude": 26.212401, "longitude": 127.680931 },
+    { "stop_id": "S2", "name": "県庁前", "latitude": 26.215297, "longitude": 127.679230 },
+    { "stop_id": "S3", "name": "旭町", "latitude": 26.206500, "longitude": 127.679000 },
+    { "stop_id": "S4", "name": "壺川駅", "latitude": 26.228000, "longitude": 127.701000 }
+  ]
+}

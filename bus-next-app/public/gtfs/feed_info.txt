@@ -1,0 +1,2 @@
+feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date
+沖縄バス（株）,http://okinawabus.com/wp/,ja,20251001,20260331
